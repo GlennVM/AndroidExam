@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameOfThrones</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_foto">foto</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reason</string>
+    <string name="Twists">Twists</string>
+    <string name="Twistee">Twistee:</string>
+    <string name="Reward">Reward:</string>
+    <string name="IRight">I am Right</string>
+    <string name="addNew">Add New</string>
+    <string name="YourAnswer">Your Answer:</string>
+    <string name="TwisteeAnswer">Twistee Answer:</string>
+    <string name="twist">Twist:</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Twist</string>
+    <string name="Name">Name</string>
+    <string name="Pass">Pass</string>
+    <string name="Submit">Submit</string>
+    <string name="AddNew">Add New</string>
+    <string name="Twist">Watch twists</string>
+    <string name="Twistee">Twistee</string>
+    <string name="YourAnswer">Your Answer</string>
+    <string name="TwisteeAnswer">Twistee Answer</string>
+    <string name="Reward">Reward</string>
+    <string name="Save">Save</string>
+    <string name="IRight">I am Right</string>
+    <string name="scoreboard">Scoreboard</string>
+</resources>

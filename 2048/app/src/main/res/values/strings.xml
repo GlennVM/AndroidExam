@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oefening2UserInterface - 2048</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="continueString">CONTINUE</string>
+    <string name="newGame">NEW GAME</string>
+    <string name="about">ABOUT</string>
+    <string name="dialog_about_description">2048 is a single-player puzzle game created in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, in which the objective is to slide numbered tiles on a grid to combine them and create a tile with the number 2048</string>
+    <string name="exit">EXIT</string>
+    <string name="resetB">Reset</string>
+    <string name="score">Score:</string>
+    <string name="scoreString">2048</string>
+    <string name="dialog_about_title"></string>
+</resources>
